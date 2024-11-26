@@ -1,5 +1,4 @@
-# Project 1 - Single Server Key-Value Store (TCP & UDP)
-# Late days left: 4
+# Project - Single Server Key-Value Store (TCP & UDP)
 
 ## Features
 - **TCP** and **UDP** communication protocols
